@@ -23,7 +23,7 @@ steps:
       Pip install selenium
       pip install Pytest
       Pip install pytest -html
-      Pipinstall chromedriver-py==88.0.4324.96
+      Pip install chromedriver-py==88.0.4324.96
       Pip install pytest-xdist
       Pip install pytest-nunit
         
