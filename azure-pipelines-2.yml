@@ -20,5 +20,5 @@ steps:
     processName: 'RPAChallenge'
     folderName: 'Proto'
     user: 'Antonio Castro'
-    machine: 'antonio-lorenzo.castro@capgemini.com''s workspace machine'
+    machine: 'Antonio''s Machine'
   displayName: 'Orchestrator Run Job'
