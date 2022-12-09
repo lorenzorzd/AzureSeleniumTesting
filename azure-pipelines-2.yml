@@ -19,6 +19,6 @@ steps:
     orchestratorConnection: 'UiPath Orchestrator'
     processName: 'RPAChallenge'
     folderName: 'Proto'
-    user: 'Antonio Castro'
+    user: 'corp\ancastro'
     machine: 'Antonio''s Machine'
   displayName: 'Orchestrator Run Job'
